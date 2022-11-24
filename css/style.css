@@ -1,0 +1,52 @@
+.contenedor{
+    height: 100px;
+    background-color: rgb(15, 15, 15);
+    
+}
+
+.geek-logo{
+    width: 280px;
+}
+
+.h2{
+    color: snow;
+    height: 50px;
+    background-color: rgb(39, 39, 39);
+    margin-top:250px;
+}
+
+.video{
+    width: 300px;
+}
+
+
+
+.geek-games a{
+    font-size: 20px;
+    
+    color: snow;
+    text-decoration: none;
+}
+
+
+.contacto a{
+    font-size: 20px;
+    color: snow;
+    text-decoration: none;
+}
+
+/* hover */
+.geek-games a:hover{
+    color: greenyellow;
+}
+
+.contacto a:hover{
+    color: greenyellow;
+}
+
+/*logo animado*/
+
+
+.contenedor-video .video{
+    width: 1000px;
+}
